@@ -1,0 +1,24 @@
+{
+  "exported_at": "2026-08-03T00:00:00Z",
+  "source": "suansa-study production D1 database",
+  "table": "studies",
+  "record_count": 16,
+  "records": [
+    {"id":1,"type":"오프라인","date":"2026-04-26T15:00","topic":"AI로 책만들기","speaker":"김진성","detail":"AI를 활용한 시화집 출판 전과정 살펴보기","status":"진행 완료"},
+    {"id":2,"type":"오프라인","date":"2026-05-09T00:00","topic":"랜딩페이지 최적화","speaker":"나미리","detail":"한콘연 스터디 리허설","status":"진행 완료"},
+    {"id":3,"type":"오프라인","date":"2026-05-16T00:00","topic":"네이버 블로그 상위노출","speaker":"안현주","detail":"내부 스터디","status":"진행 완료"},
+    {"id":4,"type":"오프라인","date":"2026-05-23T00:00","topic":"챗봇에서 에이전트까지","speaker":"고신복","detail":"내부 스터디","status":"진행 완료"},
+    {"id":5,"type":"오프라인","date":"2026-05-27T00:00","topic":"헤어 업종 AI 활용","speaker":"김주연","detail":"biscos + 헤어 관련 업종","status":"진행 완료"},
+    {"id":6,"type":"오프라인","date":"2026-05-27T00:00","topic":"헤어 업종 AI 활용","speaker":"추경여","detail":"biscos + 헤어 관련 업종","status":"진행 완료"},
+    {"id":7,"type":"오프라인","date":"2026-05-30T00:00","topic":"뤼튼, 티스토리","speaker":"안현주","detail":"내부 스터디","status":"진행 완료"},
+    {"id":8,"type":"오프라인","date":"2026-06-14T10:00","topic":"AI 비서 만들기","speaker":"바울","detail":"리허설","status":"진행 완료"},
+    {"id":9,"type":"오프라인","date":"2026-06-14T13:00","topic":"AI를 활용한 업무자동화","speaker":"안현주","detail":"원주 강의 리허설","status":"진행 완료"},
+    {"id":10,"type":"오프라인","date":"2026-06-16T10:00","topic":"AI 비서 만들기","speaker":"바울","detail":"biscos + 헤어 관련 업종","status":"진행 완료"},
+    {"id":11,"type":"오프라인","date":"2026-06-16T14:00","topic":"AI를 활용한 업무자동화","speaker":"안현주","detail":"원주 한지테마파크","status":"진행 완료"},
+    {"id":12,"type":"온라인","date":"2026-06-20T11:30","topic":"AI로 책만들기","speaker":"김주연","detail":"한콘연 스터디 리허설","status":"진행 완료"},
+    {"id":13,"type":"오프라인","date":"2026-07-04T12:00","topic":"원주 강의 리허설","speaker":"김주연","detail":"원주 강의 리허설","status":"진행 완료"},
+    {"id":14,"type":"오프라인","date":"2026-07-09T14:00","topic":"이미지 / 영상 만들기","speaker":"김주연, 석승호","detail":"원주 한지테마파크","status":"진행 완료"},
+    {"id":15,"type":"온라인","date":"2026-07-10T16:00","topic":"AI 이력서 제작 강의","speaker":"바울","detail":"줌 리허설","status":"진행 완료"},
+    {"id":16,"type":"온라인","date":"2026-07-14T16:00","topic":"Vstory로 영상 만들기","speaker":"추경여","detail":"Vstory로 영상 만들기","status":"예정"}
+  ]
+}
